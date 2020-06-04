@@ -1,6 +1,9 @@
 [
     edit lan 1
+<<<<<<< HEAD
     khong config
+=======
+
     {
         longitude: 21.122782, lattude:107.427210
     },
