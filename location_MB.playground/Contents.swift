@@ -1,5 +1,6 @@
 [
     edit lan 1
+    khong config
     {
         longitude: 21.122782, lattude:107.427210
     },
