@@ -1,4 +1,5 @@
 [
+    edit lan 1
     {
         longitude: 21.122782, lattude:107.427210
     },
